@@ -1,1 +1,0 @@
-# midego-sample-bc-calls
